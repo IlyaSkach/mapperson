@@ -4,7 +4,6 @@ import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import markerIcon from "../../assets/icons/marker.svg";
 import starScoreIcon from "../../assets/icons/star-score.svg";
-import playIcon from "../../assets/icons/play.svg";
 import { peopleData } from "./peopleData";
 import "./MapPerson.css";
 import VideoModal from "./VideoModal";
